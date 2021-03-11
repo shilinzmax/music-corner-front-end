@@ -1,0 +1,36 @@
+.nav-songs {
+    position: absolute;
+    left: 200px
+}
+
+.about-us {
+    position: absolute;
+    left: 30px
+}
+.reported-posts-one {
+    position: absolute;
+    left: 1000px;
+    background-color: black;
+    margin-right: 20px;
+    margin-top: 13px;
+    padding: 0;
+}
+
+.reported-posts-two {
+    position: absolute;
+    left: 900px;
+    background-color: black;
+    margin-right: 20px;
+    margin-top: 13px;
+    padding: 0;
+}
+
+.sign-out-btn {
+    position: relative;
+    left:5px
+}
+
+.privacy-policy {
+    position: relative;
+    left: 110px
+}

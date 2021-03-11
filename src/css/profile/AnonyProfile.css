@@ -1,0 +1,24 @@
+.login-card {
+    /*width: 50rem;*/
+    width: 60rem;
+    height: 23rem;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+
+}
+
+.login-username {
+    margin-top: 10px;
+    margin-left: 100px
+}
+
+
+
+.anony-profile-btn {
+    position: relative;
+    left:500px
+}
+
+
+

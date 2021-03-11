@@ -1,0 +1,179 @@
+.card1 {
+    /*width: 50rem;*/
+    background-color: bisque;
+    width: 60rem;
+    height: auto;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.card-for-comment {
+    width: 60rem;
+    height: auto;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+
+}
+
+.card-text {
+    position:relative; left:150px;
+    word-wrap: break-word;
+    width: 50%;
+    font-style: italic;
+
+
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    position:relative;
+    text-decoration: none;
+    top:2px;
+    color: black;
+
+
+}
+
+.card-title:hover{
+    text-decoration: none;
+}
+
+
+
+.card-img {
+    position:relative; left:150px; top:2px;
+}
+
+.heart {
+    /*background-color: indianred;*/
+    position:relative; left:150px;
+    opacity:0.9;
+    background:#fff;
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+    /* Additional */
+    line-height: 39px;
+    border-radius: 10px;
+    color: #3B5998;
+    border: none;
+    background-color: bisque;
+}
+
+.heart1 {
+    /*background-color: indianred;*/
+    position:relative; left:150px;
+    opacity:0.9;
+    background:#fff;
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+    /* Additional */
+    line-height: 39px;
+    border-radius: 10px;
+    border: none;
+    background-color: bisque;
+}
+
+.comment {
+    position:absolute; left:700px;
+    opacity:0.9;
+    background:#fff;
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+    /* Additional */
+    line-height: 39px;
+    border-radius: 10px;
+    color: #3B5998;
+    border: none;
+    background-color: bisque;
+}
+
+.comment1 {
+    /*background-color: cornflowerblue;*/
+    position:absolute; left:700px;
+    opacity:0.9;
+    background:#fff;
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+    /* Additional */
+    line-height: 39px;
+    border-radius: 10px;
+    border: none;
+    background-color: bisque;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.dropdown-toggle {
+    background-color: #61dafb;
+    position:relative; left:380px;
+}
+
+.card-head {
+    background-color: aliceblue;
+}
+
+.form-for-comment {
+    position:relative;
+    left: 80px
+}
+
+.reply-for-comment {
+    position:relative;
+    left: 10px;
+    opacity:0.9;
+    background:#fff;
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+    /* Additional */
+    line-height: 39px;
+    border-radius: 10px;
+    border: none;
+    background-color: bisque;
+    color: black;
+
+}
+
+.delete-btn {
+    position: absolute;
+    left: 800px;
+    background-color: rosybrown;
+}
+
+.update-btn {
+    position: absolute;
+    left: 870px;
+}

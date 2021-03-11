@@ -1,0 +1,39 @@
+.news-feed {
+    position:absolute;
+    left:80px;
+    top:20px
+}
+
+.my-new-post {
+    position:absolute;
+    left: 1100px;
+    text-decoration: none;
+    color: black;
+}
+
+.my-new-post:hover{
+    text-decoration: none;
+}
+
+.my-feed-btn {
+    position:absolute;
+    left: 800px;
+}
+
+.btn-reported-post {
+    position:absolute;
+    left: 930px;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.textarea-new-post {
+    position: relative;
+    left: 150px;
+
+}

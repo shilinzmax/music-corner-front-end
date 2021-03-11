@@ -1,0 +1,30 @@
+.card-new {
+    /*width: 50rem;*/
+    width: 70rem;
+    height: 35rem;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+
+}
+
+.card2 {
+    margin-left: 100px;
+    margin-right: auto;
+}
+
+.register {
+    margin-left: 70px;
+}
+
+
+.firstname {
+    margin-top:20px;
+}
+.lastname {
+    margin-top:20px;
+}
+
+.register-button {
+    margin-left: 70px;
+}
